@@ -1,5 +1,5 @@
 # Insurance-Premium
-Prediction of Premium Amount 
+Prediction of Premium Amount with respect various health & demographic parameter 
 
 # Data Descriptions 
 
